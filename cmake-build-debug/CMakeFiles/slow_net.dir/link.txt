@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/slow_net.dir/main.cpp.o CMakeFiles/slow_net.dir/src/base/neuron_based.cc.o CMakeFiles/slow_net.dir/src/default_neuron.cc.o CMakeFiles/slow_net.dir/test/default_neuron_test.cc.o CMakeFiles/slow_net.dir/src/base/active_functions.cc.o  -o slow_net 
